@@ -1,0 +1,126 @@
+{
+  "user": [
+    {
+      "id": "1683811625048",
+      "name": "krish naidu",
+      "email": "krishnaidu2556@gmail.com",
+      "password": "123456",
+      "mobile": "9998194733",
+      "status": "Block"
+    },
+    {
+      "id": "1683811644177",
+      "name": "naidu yash",
+      "email": "naiduyash@gmail.com",
+      "password": "85741",
+      "mobile": "7894561230",
+      "status": "Block"
+    },
+    {
+      "id": "1683867805197",
+      "name": "guftu",
+      "email": "shahguru1212@gmail.com",
+      "password": "1265",
+      "mobile": "9998194733",
+      "status": "Block"
+    },
+    {
+      "id": "1684402980567",
+      "name": "sdfgbn",
+      "email": "sdfgbn",
+      "password": "dfghm",
+      "mobile": "dfgh",
+      "status": "Block"
+    },
+    {
+      "id": "1684661410495",
+      "name": "Atul Goswami",
+      "email": "atulgoswami@gmail.com",
+      "password": "123456",
+      "mobile": "9998194733",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1
+    },
+    {
+      "id": "1683442595936",
+      "name": "Burgerwale",
+      "email": "sdc ",
+      "mobile": "9998194733",
+      "select": "",
+      "time": "",
+      "date": "",
+      "message": "ddwfegrhtjm",
+      "status": "Unblock",
+      "password": ""
+    },
+    {
+      "id": "1683442656348",
+      "name": "Naidu krish",
+      "email": "sdcv ",
+      "mobile": "9998194733",
+      "message": "sdfvgbn ",
+      "status": "Unblock"
+    }
+  ],
+  "login": [
+    {
+      "email": "krishnaidu105@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "addproduct": [
+    {
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnKqplJw6JTvbHr6_J2mkY-T8ix0DmHgjvAcftle9ulw&s",
+      "id": "1683694851787",
+      "name": "jay",
+      "email": "jayparmar@456gmail.com",
+      "mobile": "123456789"
+    },
+    {
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2yImDkrNdDHSwaXIaMAA7EMYWaqnUhAAJIFqlyC-1lA&s",
+      "id": "1683695610279",
+      "name": "vivek jha",
+      "email": "vivekdefef@gmail.com",
+      "mobile": "85521478522"
+    },
+    {
+      "imageurl": "https://c4.wallpaperflare.com/wallpaper/448/174/357/neon-4k-hd-best-for-desktop-wallpaper-preview.jpg",
+      "id": "1683695871223",
+      "name": "manan",
+      "email": "mananhdjdwqk@hmail.com",
+      "mobile": "789658421615"
+    },
+    {
+      "imageurl": "https://c4.wallpaperflare.com/wallpaper/297/288/1009/5bd320d590bcf-wallpaper-preview.jpg",
+      "id": "1683696035620",
+      "name": "Atul Goswami",
+      "email": "atulgoswami@gmail.com",
+      "mobile": "2564864592"
+    },
+    {
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurZMhowkixgUaJVq_roMMRgUpjmwnQr-ZYQ&usqp=CAU",
+      "id": "1683696568452",
+      "name": "Add new Product",
+      "email": "krishnaidu105@gmail.com",
+      "mobile": "7096161786"
+    },
+    {
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByZqej_sb8X4fFkYuADANgRcAol7TO2KGkQ&usqp=CAU",
+      "id": "1683696846104",
+      "name": "New phone",
+      "email": "kridbfdx@gmail.com",
+      "mobile": "8523697410"
+    },
+    {
+      "imageurl": "https://c4.wallpaperflare.com/wallpaper/764/505/66/baby-groot-4k-hd-superheroes-wallpaper-preview.jpg",
+      "id": "1683974703456",
+      "name": "I am grudt",
+      "email": "grudt565@gmai.com",
+      "mobile": "98453696566"
+    }
+  ]
+}
